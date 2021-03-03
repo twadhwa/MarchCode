@@ -14,6 +14,10 @@ int main()
     {
         cout << num << " is divisble by both 5 & 11" << endl;
     }
+    else
+    {
+        cout << num << " is not divisble by 5 & 11 both" << endl;
+    }
 
     return 0;
 }
