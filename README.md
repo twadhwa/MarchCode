@@ -7,3 +7,20 @@
 This March Code Program aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+
+
+## ❤️ Project Admin
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/aryasoni98">
+				<img src="./image/aryasoni.jpg" width="100px" alt="" />
+				<br /> <sub><b>Arya Soni</b></sub>
+			</a>
+			<br /> <a href="https://github.com/aryasoni98">
+		👑 Admin
+	    </a>
+		</td>
+	</tr>
+</table>
