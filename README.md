@@ -4,7 +4,7 @@
 <div align="center">
 
 ![Issues](https://img.shields.io/github/issues/CodeTrophs/MarchCode)
-![Pull Requests](https://img.shields.io/github/issues-pr/akshitagupta15june/Face-X)
+![Pull Requests](https://img.shields.io/github/issues-pr/CodeTrophs/MarchCode)
 ![Forks](https://img.shields.io/github/forks/CodeTrophs/MarchCode)
 ![Stars](https://img.shields.io/github/stars/CodeTrophs/MarchCode)
 ![License](https://img.shields.io/github/license/CodeTrophs/MarchCode
