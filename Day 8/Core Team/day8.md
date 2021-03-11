@@ -1,4 +1,4 @@
 ---		
-Day 7 : Question Of The Day
+Day 8 : Question Of The Day
 Question : To find the factorial of a given number. 
 ---
