@@ -1,4 +1,4 @@
 ---		
-Day 10 : Question Of The Day
+Day 11 : Question Of The Day
 Question : To find the lcm of 2 numbers.
 ---
