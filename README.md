@@ -25,10 +25,7 @@ This March Code Program aims to simplify and guide the way beginners make their 
 <table>
 	<tr>
 		<td align="center">
-			<a href="https://github.com/aryasoni98">
-				<img src="./image/aryasoni.jpg" width="100px" alt="" />
-				<br /> <sub><b>Arya Soni</b></sub>
-			</a>
+			<a href="
 			<br /> <a href="https://github.com/aryasoni98">
 		👑 Admin
 	    </a>
